@@ -1,4 +1,4 @@
-# funkboxing.com is movin
+# funkboxing.com is moving
 
 If you expected to see the old funkboxing.com check back later, this is just a temporary setup while I figure out what I want to do about hosting. I may go to a static site, or just bluehost or something.
 
